@@ -16,6 +16,8 @@ and Naive Bayes and provides conclusive remarks.
 The dataset can be obtained from the IMDB Dataset of 50K Movie Reviews. The dataset
 contains 50 thousand movie reviews that have been pre-labeled with negative and positive
 sentiment class labels.
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 3.2 DATA PRE-PROCESSING
 Data preprocessing is the main step to prepare the data as of model requirements. The
 preliminary step for any dataset is to be pre-processed while applying to any algorithm. This
