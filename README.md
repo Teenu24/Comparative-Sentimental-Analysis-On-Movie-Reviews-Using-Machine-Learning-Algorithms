@@ -113,3 +113,17 @@ Algorithm
 4. Generate a k-NN model using neighbors value.
 5. Train or fit the data into the model.
 6. Predict the review.
+
+
+Logistic regression, SVM Classifier, Naive Bayes, and k-Nearest Neighbours are four types
+of machine learning classifiers used in this research. The operations of splitting the data set
+into two parts were tested for a data set which is obtained from preprocessing the dataset.
+The below table gives the accuracy score for each classifier that is performed on the movie
+dataset.
+
+Classifier                        Accuracy     Execution Time (sec)
+Logistic Regression                 89%          64 sec
+Support Vector Machine              89%           3 sec
+Multinomial Naive Bayesian          87%           1 sec
+K Nearest Neighbours                77%           76 sec
+
